@@ -1,4 +1,4 @@
-# LINKEDIN_SCRAP_JOBS_SDE
+# NAUKRI_SCRAP_JOBS_SDE
 scrapes job data from LinkedIn for Software Development Engineer (SDE) positions.
 LINKEDIN_SCRAP_JOBS_SDE that scrapes job data from LinkedIn for Software Development Engineer (SDE) positions. You can create a JavaScript module for this purpose. Here's a simple example of how you can structure this module:
 
