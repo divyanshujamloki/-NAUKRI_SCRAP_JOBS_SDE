@@ -1,6 +1,6 @@
 # NAUKRI_SCRAP_JOBS_SDE
-scrapes job data from LinkedIn for Software Development Engineer (SDE) positions.
-LINKEDIN_SCRAP_JOBS_SDE that scrapes job data from LinkedIn for Software Development Engineer (SDE) positions. You can create a JavaScript module for this purpose. Here's a simple example of how you can structure this module:
+scrapes job data from  NAUKRI for Software Development Engineer (SDE) positions.
+ NAUKRI_SCRAP_JOBS_SDE that scrapes job data from LinkedIn for Software Development Engineer (SDE) positions. You can create a JavaScript module for this purpose. Here's a simple example of how you can structure this module:
 
 step 1 clone ,then npm i all dependency , npm run start(nodemon) , pign and add json body raw {
     "skill":"software Engineer"
